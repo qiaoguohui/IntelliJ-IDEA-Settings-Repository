@@ -1,0 +1,16 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <extensionMap>
+      <mapping ext="main.kts" type="Kotlin" />
+      <mapping ext="gradle.kts" type="Kotlin" />
+      <mapping pattern="mixOldTrade.json" type="PLAIN_TEXT" />
+      <mapping pattern="mainViceApp" type="PLAIN_TEXT" />
+      <mapping pattern="mixOldTrade" type="PLAIN_TEXT" />
+      <mapping pattern="mainViceApp5G" type="PLAIN_TEXT" />
+      <mapping ext="lua" type="PLAIN_TEXT" />
+      <mapping ext="ini" type="PLAIN_TEXT" />
+      <removed_mapping ext="scf" approved="true" type="Native" />
+      <mapping pattern="testSession" type="Python" />
+    </extensionMap>
+  </component>
+</application>

@@ -1,0 +1,14 @@
+<application>
+  <component name="DockerRegistry">
+    <DockerRegistry email="" password="">
+      <option name="address" value="registry.hub.docker.com" />
+      <option name="name" value="Docker Registry" />
+      <option name="username" value="" />
+    </DockerRegistry>
+    <DockerRegistry email="" password="">
+      <option name="address" value="http://192.168.26.129:5000/v2/" />
+      <option name="name" value="Local Registry" />
+      <option name="username" value="" />
+    </DockerRegistry>
+  </component>
+</application>

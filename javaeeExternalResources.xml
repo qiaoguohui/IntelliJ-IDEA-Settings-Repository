@@ -1,0 +1,15 @@
+<application>
+  <component name="ExternalResourceManagerImpl">
+    <resource url="http://mybatis.org/dtd/mybatis-3-config.dtd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/extResources/69c70a2f_mybatis-3-config.dtd" />
+    <resource url="http://mybatis.org/dtd/mybatis-3-mapper.dtd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/extResources/b36fadae_mybatis-3-mapper.dtd" />
+    <resource url="http://www.springframework.org/schema/aop" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/extResources/da084fef_spring-aop-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/context" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/extResources/1db4f4cf_spring-context-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/context/spring-context-3.0.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/extResources/1db4f4cf_spring-context-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/mvc" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/extResources/de84b8ef_spring-mvc-3.0.xsd" />
+    <resource url="http://www.springframework.org/schema/tx/spring-tx.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/extResources/bc20ae51_spring-tx.xsd" />
+    <resource url="https://www.springframework.org/schema/beans/spring-beans-3.0.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/extResources/3eb75b2_spring-beans-3.0.xsd" />
+    <resource url="https://www.springframework.org/schema/beans/spring-beans-4.3.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/extResources/38fbf776_spring-beans-4.3.xsd" />
+    <resource url="https://www.springframework.org/schema/tool/spring-tool-3.0.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/extResources/5ea71844_spring-tool-3.0.xsd" />
+    <resource url="https://www.springframework.org/schema/tool/spring-tool-4.3.xsd" location="$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/extResources/93b79a08_spring-tool-4.3.xsd" />
+  </component>
+</application>

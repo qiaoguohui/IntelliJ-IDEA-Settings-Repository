@@ -1,0 +1,8 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Reformat">
+      <typing text-keycode="59:0">;</typing>
+      <action id="ReformatCode" />
+    </macro>
+  </component>
+</application>
