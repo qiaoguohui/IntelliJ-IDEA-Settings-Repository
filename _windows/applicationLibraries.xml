@@ -86,47 +86,6 @@
       <JAVADOC />
       <SOURCES />
     </library>
-    <library name="Python 3.8 (env) interpreter library">
-      <CLASSES>
-        <root url="file://E:/InstallSoft/Python38/DLLs" />
-        <root url="file://E:/InstallSoft/Python38/Lib" />
-        <root url="file://E:/InstallSoft/Python38" />
-        <root url="file://E:/InstallSoft/env" />
-        <root url="file://E:/InstallSoft/env/Lib/site-packages" />
-        <root url="file://E:/InstallSoft/Python38/Lib/site-packages" />
-        <root url="file://E:/InstallSoft/Python38/Lib/site-packages/Django-3.1.1-py3.8.egg" />
-        <root url="file://E:/InstallSoft/Python38/Lib/site-packages/sqlparse-0.3.1-py3.8.egg" />
-        <root url="file://E:/InstallSoft/Python38/Lib/site-packages/pytz-2020.1-py3.8.egg" />
-        <root url="file://E:/InstallSoft/Python38/Lib/site-packages/asgiref-3.2.10-py3.8.egg" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/python_stubs/104674989" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </CLASSES>
-      <JAVADOC />
-      <SOURCES>
-        <root url="file://E:/InstallSoft/Python38/DLLs" />
-        <root url="file://E:/InstallSoft/Python38/Lib" />
-        <root url="file://E:/InstallSoft/Python38" />
-        <root url="file://E:/InstallSoft/env" />
-        <root url="file://E:/InstallSoft/env/Lib/site-packages" />
-        <root url="file://E:/InstallSoft/Python38/Lib/site-packages" />
-        <root url="file://E:/InstallSoft/Python38/Lib/site-packages/Django-3.1.1-py3.8.egg" />
-        <root url="file://E:/InstallSoft/Python38/Lib/site-packages/sqlparse-0.3.1-py3.8.egg" />
-        <root url="file://E:/InstallSoft/Python38/Lib/site-packages/pytz-2020.1-py3.8.egg" />
-        <root url="file://E:/InstallSoft/Python38/Lib/site-packages/asgiref-3.2.10-py3.8.egg" />
-        <root url="file://$USER_HOME$/AppData/Local/JetBrains/IntelliJIdea2020.1/python_stubs/104674989" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/python-skeletons" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3.7" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/stdlib/2and3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/3" />
-        <root url="file://$APPLICATION_PLUGINS_DIR$/python/helpers/typeshed/third_party/2and3" />
-      </SOURCES>
-    </library>
     <library name="scala-sdk-2.12.3" type="Scala">
       <properties>
         <compiler-classpath>
